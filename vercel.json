@@ -17,6 +17,11 @@
       "permanent": true
     },
     {
+      "source": "/github",
+      "destination": "https://github.com/kiirod/mtgp.cc",
+      "permanent": true
+    },
+    {
       "source": "/yt",
       "destination": "https://youtube.com/@mtprojs",
       "permanent": true
