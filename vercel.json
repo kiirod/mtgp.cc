@@ -1,0 +1,25 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/src/index.html"
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/dsc",
+      "destination": "https://dsc.gg/mtprojects",
+      "permanent": true
+    },
+    {
+      "source": "/x",
+      "destination": "https://x.com/kiirodd",
+      "permanent": true
+    },
+    {
+      "source": "/yt",
+      "destination": "https://youtube.com/@mtprojs",
+      "permanent": true
+    }
+  ]
+}
